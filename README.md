@@ -1,2 +1,2 @@
 # Swastik
-Swastik pattern
+Swastik Pattern
